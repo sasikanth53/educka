@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-21T13:30:41.329Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="R-qvnpQ0J5skOWtCxlKt" version="22.1.3" type="github">
+<mxfile modified="2023-11-23T11:20:28.775Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iThDSjwoDN-Xj2LlL8aV" version="22.1.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="918" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="50" y="80" width="780" height="650" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-107" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="UEzPUAAOIrF-is8g5C7q-74" vertex="1">
-          <mxGeometry x="140" y="100" width="480" height="450" as="geometry" />
+          <mxGeometry x="140" y="100" width="530" height="520" as="geometry" />
         </mxCell>
         <mxCell id="wpDZTsJx0Alkrm5YS9d_-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Databricks Cluster (Tag Store)&lt;/b&gt;&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-107">
           <mxGeometry x="80" y="20" width="83.12" height="90" as="geometry" />
