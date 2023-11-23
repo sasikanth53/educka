@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-23T12:00:02.088Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pHVb22V9wM7608kjJr7a" version="22.1.3" type="github">
+<mxfile modified="2023-11-23T12:47:14.363Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-OTsnS-qvCiGs5wgUGCe" version="22.1.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1040" dy="600" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -51,19 +51,19 @@
             <mxPoint x="390" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wpDZTsJx0Alkrm5YS9d_-26" value="&lt;b&gt;Send notification to Admin team on the Status Apply tags&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-107">
+        <mxCell id="wpDZTsJx0Alkrm5YS9d_-26" value="&lt;b&gt;Send notification to Admin team&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-107">
           <mxGeometry x="269" y="447" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wpDZTsJx0Alkrm5YS9d_-29" value="" style="endArrow=none;html=1;rounded=0;entryX=1.006;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.623;exitY=0.112;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="UEzPUAAOIrF-is8g5C7q-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="59.33000000000001" as="sourcePoint" />
+            <mxPoint x="229" y="59.33000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wpDZTsJx0Alkrm5YS9d_-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;labelBackgroundColor=default;" edge="1" parent="1" target="UEzPUAAOIrF-is8g5C7q-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="240" as="sourcePoint" />
             <mxPoint x="530" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wpDZTsJx0Alkrm5YS9d_-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;labelBorderColor=none;fontStyle=0" edge="1" parent="1" target="wpDZTsJx0Alkrm5YS9d_-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="240" as="sourcePoint" />
-            <mxPoint x="560" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
